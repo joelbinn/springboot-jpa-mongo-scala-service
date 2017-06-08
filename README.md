@@ -1,5 +1,9 @@
 Example with
-- Springboot, REST-service and Spring Data JPA repo 
+- Springboot, REST-service 
+- Spring Data JPA repo
+- Spring Data Mongo repo 
 - All implemented in Scala
 
-Just execute se.joelabs.scalaservice.WebApp.scala.
+Start a MongoDB and then just run
+
+    $ ./gradlew bootRun
